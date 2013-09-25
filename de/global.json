@@ -1,0 +1,17 @@
+{
+	"home": "Übersicht",
+	"search": "Suche",
+	"buttons.close": "Schließen",
+	"403.title": "Zugriff Verweigert",
+	"403.message": "Du bist nicht dazu berechtigt, diese Seite aufzurufen. <a href='/login'>Logge dich ein</a> und versuche es erneut.",
+	"404.title": " Nicht Gefunden",
+	"404.message": "Die abgefragte Seite wurde nicht gefunden. <a href='/''>Zurück zur Übersicht</a>.",
+	"logout": "Ausloggen",
+	"logout.title": "Du bist ausgeloggt.",
+	"logout.message": "Du hast dich soeben erfolgreich aus dem Forum ausgeloggt.",
+	"header.recent": "Aktuell",
+	"header.unread": "Ungelesen",
+	"header.users": "Benutzer",
+	"header.search": "Suche",
+	"notifications.loading": "Benachrichtigungen laden"
+}

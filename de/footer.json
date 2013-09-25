@@ -1,0 +1,12 @@
+{
+	"disconnect.title": "Socket Disconnect",
+	"disconnect.message": "Looks like you disconnected, try reloading the page.",
+	"disconnect.reload_button": "Reload",
+	"chat.chatting_with": "Chat with <span id='chat-with-name'></span>",
+	"chat.placeholder": "type chat message, here press enter to send",
+	"chat.send": "Senden",
+	"stats.online": "Online",
+	"stats.users": "Benutzer",
+	"stats.topics": "Themen",
+	"stats.posts": "Beiträge"
+}
