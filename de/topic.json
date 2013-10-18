@@ -16,6 +16,7 @@
 	"thread_tools.move": "Thema verschieben",
 	"thread_tools.delete": "Thema löschen",
 	"load_categories": "Kategorien laden",
+	"disabled_categories_note": "deaktivierte Kategorien sind ausgegraut",
 	"confirm_move": "verschieben",
 	"favourites.not_logged_in.title": "nicht eingeloggt",
 	"favourites.not_logged_in.message": "Bitte logge dich ein, um diesem Beitrag favorisieren zu können."
