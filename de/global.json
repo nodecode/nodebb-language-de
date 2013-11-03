@@ -9,6 +9,7 @@
 	"logout": "Ausloggen",
 	"logout.title": "Du bist ausgeloggt.",
 	"logout.message": "Du hast dich soeben erfolgreich aus dem Forum ausgeloggt.",
+	"header.admin": "Admin",
 	"header.recent": "Aktuell",
 	"header.unread": "Ungelesen",
 	"header.users": "Benutzer",
